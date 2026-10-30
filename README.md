@@ -127,11 +127,11 @@ body {
 }
 
 h1 {
-  color: darkblue;
+  color: black;
 }
 
 h2 {
-  color: darkgreen;
+  color: black;
 }
 
 button {
